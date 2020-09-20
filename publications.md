@@ -1,5 +1,6 @@
 # Publications
 Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ) and [iNSPIRE-HEP](hep.net/author/profile/Saroj.Adhikari.1)
+
 |  No.  |  Authors  |  Title and Journal Link  |  Link  | 
 | ----- |  -------  |  -----  |  ----  |
 |  10   | S. Adhikari and D. Huterer | [**Super-CMB fluctuations and the Hubble tension**](https://doi.org/10.1016/j.dark.2020.100539) | [arXiv:1905.02278](https://arxiv.org/abs/1905.02278) |
