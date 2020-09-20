@@ -3,6 +3,13 @@ I joined the physics department at SUNY Plattsburgh as an assistant professor in
 
 I did my PhD at the Pennsylvania State University, University Park and worked as a postdoctoral research fellow at the University of Michigan, Ann Arbor.
 
+# Recent News
+* August 2020 - Joined SUNY Plattsburgh as an Assistant Professor
+* August 2019 - Joined Wilkes University as a Visiting Assistant Professor
+
+# Teaching
+* Fall 2020: CSC 322 - Data Modeling and Analysis
+
 # Publications
 Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ) and [iNSPIRE-HEP](https://inspirehep.net/author/profile/Saroj.Adhikari.1)
 
