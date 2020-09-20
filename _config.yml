@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Saroj Adhikari
 description: Assistant Professor of Physics, SUNY Plattsburgh
+github:
+  is_project_page:false
