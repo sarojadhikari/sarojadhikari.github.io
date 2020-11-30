@@ -4,6 +4,7 @@ I joined the physics department at SUNY Plattsburgh as an assistant professor in
 I did my PhD at the Pennsylvania State University, University Park and worked as a postdoctoral research fellow at the University of Michigan, Ann Arbor.
 
 # Recent News
+* Nov 2020 - Became a member of [Association of Nepali Physicists in America (ANPA)](https://www.anpaglobal.org/)
 * Aug 2020 - Joined SUNY Plattsburgh as an Assistant Professor
 * May 2020 - Super-CMB paper discussing the Hubble tension published on [Physics of the Dark Universe](https://doi.org/10.1016/j.dark.2020.100539) 
 * Aug 2019 - Joined Wilkes University as a Visiting Assistant Professor
