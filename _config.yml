@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Saroj Adhikari
-description: Assistant Professor of Physics, SUNY Plattsburgh
+description: Assistant Professor of Physics, SUNY Plattsburgh <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3814-7708" href="https://orcid.org/0000-0002-3814-7708" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3814-7708</a></div>
 logo: saroj_2020.jpg
 github:
   is_project_page:false
