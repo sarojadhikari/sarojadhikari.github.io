@@ -1,4 +1,10 @@
-# Curriculum Vitae
+---
+layout: page
+title: Curriculum Vitae
+permalink: /cv/
+---
+
+# Saroj Adhikari
 Department of Physics  
 State University of New York at Plattsburgh, Plattsburgh, NY  
 
