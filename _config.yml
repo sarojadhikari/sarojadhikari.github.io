@@ -1,12 +1,17 @@
 theme: minima
 title: Saroj Adhikari
-author:
-  name: Saroj Adhikari
-  email: adh.saroj@gmail.com
+author: "Saroj Adhikari"
+
+github_username: sarojadhikari
+
 description: Assistant Professor of Physics, SUNY Plattsburgh 
 logo: saroj_2020.jpg
 github:
   is_project_page: false
 
 header_pages:
+  - README.md
+  - cv/README.md
+  
+include:
   - cv
