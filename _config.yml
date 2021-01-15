@@ -10,8 +10,5 @@ github:
   is_project_page: false
 
 header_pages:
-  - README.md
+  - publications.md
   - cv/cv.md
-  
-include:
-  - cv
