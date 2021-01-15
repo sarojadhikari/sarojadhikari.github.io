@@ -12,7 +12,9 @@ I did my PhD at the Pennsylvania State University, University Park and worked as
 * Fall 2020: CSC 322 - Data Modeling and Analysis
 
 # Publications
-Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ), [iNSPIRE-HEP](https://inspirehep.net/author/profile/Saroj.Adhikari.1), and ORCID: <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3814-7708" href="https://orcid.org/0000-0002-3814-7708" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3814-7708</a></div>
+Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ) and [iNSPIRE-HEP](https://inspirehep.net/author/profile/Saroj.Adhikari.1)
+
+ORCID: <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3814-7708" href="https://orcid.org/0000-0002-3814-7708" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-3814-7708</a></div>
 
 |  No.  |  Author(s)  |  Title and Journal Link  |  arXiv Link  | 
 | ----- |  -------  |  -----  |  ----  |
