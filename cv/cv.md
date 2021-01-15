@@ -1,4 +1,4 @@
-# SAROJ ADHIKARI
+# Curriculum Vitae
 Department of Physics  
 State University of New York at Plattsburgh, Plattsburgh, NY  
 
