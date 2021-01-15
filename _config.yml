@@ -11,7 +11,7 @@ github:
 
 header_pages:
   - README.md
-  - cv/README.md
+  - cv/cv.md
   
 include:
   - cv
