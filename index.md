@@ -3,11 +3,12 @@ layout: page
 title: About Me
 ---
 
-I am an Assistant Professor of Physics in the physics department at SUNY Plattsburgh. My research area is in cosmology. My primary research interests in cosmology revolve around making use of the cosmic microwave background and galaxy survey data to study early universe cosmology.
+I am an Assistant Professor of Physics in the [Physics Department](https://www.plattsburgh.edu/academics/schools/arts-sciences/physics/) at [SUNY Plattsburgh](https://www.plattsburgh.edu/). My research area is in cosmology. My primary research interests in cosmology revolve around making use of the cosmic microwave background and galaxy survey data to study early universe cosmology.
 
 I did my PhD at the Pennsylvania State University, University Park and worked as a postdoctoral research fellow at the University of Michigan, Ann Arbor.
 
 # Recent News
+* Dec 2020 - Received [Google Cloud Research Credit](https://edu.google.com/programs/credits/research/) Award
 * Nov 2020 - Became a member of [Association of Nepali Physicists in America (ANPA)](https://www.anpaglobal.org/)
 * Aug 2020 - Joined SUNY Plattsburgh as an Assistant Professor
 * May 2020 - Super-CMB paper discussing the Hubble tension published on [Physics of the Dark Universe](https://doi.org/10.1016/j.dark.2020.100539) 
