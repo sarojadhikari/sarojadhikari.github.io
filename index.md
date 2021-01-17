@@ -8,6 +8,7 @@ I am an Assistant Professor of Physics in the [Physics Department](https://www.p
 I did my PhD at the Pennsylvania State University, University Park and worked as a postdoctoral research fellow at the University of Michigan, Ann Arbor.
 
 # Recent News
+* Jan 2021 - Written an article for [ANPA Newsletter 2021](https://www.anpaglobal.org/2021/01/anpa-newsletter-2021.html)
 * Dec 2020 - Received [Google Cloud Research Credit](https://edu.google.com/programs/credits/research/) Award
 * Nov 2020 - Became a member of [Association of Nepali Physicists in America (ANPA)](https://www.anpaglobal.org/)
 * Aug 2020 - Joined SUNY Plattsburgh as an Assistant Professor
@@ -15,7 +16,8 @@ I did my PhD at the Pennsylvania State University, University Park and worked as
 * Aug 2019 - Joined Wilkes University as a Visiting Assistant Professor
 
 # Teaching
-* Fall 2020: CSC 322 - Data Modeling and Analysis
+* Spring 2021 - PHY 112: General Physics II and PHY 421: Fundamentals of Electromagnetism
+* Fall 2020 - CSC 322: Data Modeling and Analysis
 
 # Publications
 * Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ) and [iNSPIRE-HEP](https://inspirehep.net/author/profile/Saroj.Adhikari.1)
