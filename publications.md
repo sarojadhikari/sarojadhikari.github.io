@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ) and [iNSPIRE-HEP](hep.net/author/profile/Saroj.Adhikari.1)
+Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ) and [iNSPIRE-HEP](https://inspirehep.net/author/profile/Saroj.Adhikari.1)
 
 |  No.  |  Author(s)  |  Title and Journal Link  |  arXiv Link  | 
 | ----- |  -------  |  -----  |  ----  |
