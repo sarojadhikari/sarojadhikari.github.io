@@ -10,5 +10,6 @@ github:
   is_project_page: false
 
 header_pages:
+  - tools.md
   - publications.md
   - cv/cv.md
