@@ -1,4 +1,5 @@
-# Various tools I regularly and occasionally use
+# Tools
+## Various tools I regularly and occasionally use
 * Github
 * Jupyter Notebooks
 * Markdown
@@ -6,6 +7,6 @@
 * Latex
 * Mathematica
 
-# Some podcasts I occasionally listen
+## Some podcasts I occasionally listen
 * Sean Carroll's Mindscape 
 * Lex Fridman Podcast
