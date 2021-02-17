@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Tools
 ---
 
 ## Various tools I regularly and occasionally use
