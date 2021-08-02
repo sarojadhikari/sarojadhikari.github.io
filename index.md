@@ -8,6 +8,7 @@ I am an [Assistant Professor of Physics](https://www.plattsburgh.edu/academics/s
 I did my PhD at the Pennsylvania State University, University Park and worked as a postdoctoral research fellow at the University of Michigan, Ann Arbor.
 
 # Recent News
+* Aug 2021 - Became a receiving editor for Astroparticle Physics journal
 * Jan 2021 - Written an article for [ANPA Newsletter 2021](https://www.anpaglobal.org/2021/01/anpa-newsletter-2021.html)
 * Dec 2020 - Received [Google Cloud Research Credit](https://edu.google.com/programs/credits/research/) Award
 * Nov 2020 - Became a member of [Association of Nepali Physicists in America (ANPA)](https://www.anpaglobal.org/)
