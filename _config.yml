@@ -13,3 +13,5 @@ header_pages:
   - tools.md
   - publications.md
   - cv/cv.md
+
+future: true
