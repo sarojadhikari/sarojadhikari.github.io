@@ -20,9 +20,11 @@ I did my PhD at the Pennsylvania State University, University Park and worked as
   - PHY 111: General Physics I
   - PHY 341: Thermodynamics 
   - PHY 398: Technical Reports in Physics and Engineering
-* **Spring 2021** 
+* <details>
+  <summary>**Spring 2021**</summary>
   - PHY 112: General Physics II
   - PHY 421: Fundamentals of Electromagnetism
+  </details>
 * **Fall 2020**
   - CSC 322: Data Modeling and Analysis
 
