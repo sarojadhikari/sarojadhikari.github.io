@@ -16,9 +16,15 @@ I did my PhD at the Pennsylvania State University, University Park and worked as
 * May 2020 - Super-CMB paper discussing the Hubble tension published on [Physics of the Dark Universe](https://doi.org/10.1016/j.dark.2020.100539) 
 
 # Teaching
-* Fall 2021 - PHY 111: General Physics I, PHY 341: Thermodynamics and PHY 398: Technical Reports in Physics and Engineering
-* Spring 2021 - PHY 112: General Physics II and PHY 421: Fundamentals of Electromagnetism
-* Fall 2020 - CSC 322: Data Modeling and Analysis
+* **Fall 2021** 
+  - PHY 111: General Physics I
+  - PHY 341: Thermodynamics 
+  - PHY 398: Technical Reports in Physics and Engineering
+* **Spring 2021** 
+  - PHY 112: General Physics II
+  - PHY 421: Fundamentals of Electromagnetism
+* **Fall 2020**
+  - CSC 322: Data Modeling and Analysis
 
 # Publications
 * Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ) and [iNSPIRE-HEP](https://inspirehep.net/author/profile/Saroj.Adhikari.1)
