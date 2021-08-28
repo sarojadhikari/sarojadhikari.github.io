@@ -1,4 +1,6 @@
-## News and Updates
+--- 
+title: News and Updates
+---
 * Aug 2021 - Became a receiving editor for [Astroparticle Physics](https://www.journals.elsevier.com/astroparticle-physics) journal
 * Jan 2021 - Written an article for [ANPA Newsletter 2021](https://www.anpaglobal.org/2021/01/anpa-newsletter-2021.html)
 * Dec 2020 - Received [Google Cloud Research Credit](https://edu.google.com/programs/credits/research/) Award
