@@ -16,6 +16,9 @@ I did my PhD at the Pennsylvania State University, University Park and worked as
 * May 2020 - Super-CMB paper discussing the Hubble tension published on [Physics of the Dark Universe](https://doi.org/10.1016/j.dark.2020.100539) 
 
 # Teaching
+* **Spring 2022**
+  - PHY 112: General Physics II
+  - PHY 452: Quantum Mechanics
 * **Fall 2021** 
   - PHY 111: General Physics I
   - PHY 341: Thermodynamics 
