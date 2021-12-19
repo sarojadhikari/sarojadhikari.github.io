@@ -2,6 +2,8 @@
 title: About Me
 ---
 
+# About Me
+
 I am an [Assistant Professor of Physics](https://www.plattsburgh.edu/academics/schools/arts-sciences/physics/faculty/adhikari-saroj.html) in the [Physics Department](https://www.plattsburgh.edu/academics/schools/arts-sciences/physics/) at [SUNY Plattsburgh](https://www.plattsburgh.edu/). My research area is in cosmology. My primary research interests in cosmology revolve around making use of the cosmic microwave background and galaxy survey data to study early universe cosmology.
 
 I did my PhD at the Pennsylvania State University, University Park and worked as a postdoctoral research fellow at the University of Michigan, Ann Arbor.
