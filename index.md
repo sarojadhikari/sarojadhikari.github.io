@@ -11,7 +11,7 @@ I did my PhD at the Pennsylvania State University, University Park and worked as
 
 # Recent [News](news.md)
 * Aug 2021 - Became a receiving editor for [Astroparticle Physics](https://www.journals.elsevier.com/astroparticle-physics) journal
-* Jan 2021 - Written an article for [ANPA Newsletter 2021](https://www.anpaglobal.org/2021/01/anpa-newsletter-2021.html)
+* Jan 2021 - Written an article for [ANPA Newsletter 2021](https://anpaglobal.org/anpa-newsletter-2021/)
 * Dec 2020 - Received [Google Cloud Research Credit](https://edu.google.com/programs/credits/research/) Award
 * Nov 2020 - Became a member of [Association of Nepali Physicists in America (ANPA)](https://www.anpaglobal.org/)
 * Aug 2020 - Joined [SUNY Plattsburgh](https://www.plattsburgh.edu/) as an Assistant Professor
