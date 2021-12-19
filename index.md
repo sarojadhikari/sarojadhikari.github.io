@@ -15,7 +15,7 @@ I did my PhD at the Pennsylvania State University, University Park and worked as
 * Aug 2020 - Joined [SUNY Plattsburgh](https://www.plattsburgh.edu/) as an Assistant Professor
 * May 2020 - Super-CMB paper discussing the Hubble tension published on [Physics of the Dark Universe](https://doi.org/10.1016/j.dark.2020.100539) 
 
-# Current [Teaching](teaching.md)
+# Current [Courses](teaching.md)
 * **Spring 2022**
   - PHY 112: General Physics II
   - PHY 452: Quantum Mechanics
