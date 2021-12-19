@@ -1,4 +1,6 @@
-# Current and Past Teaching
+--- 
+title: Current and Past Teaching
+---
 * **Spring 2022**
   - PHY 112: General Physics II
   - PHY 452: Quantum Mechanics
