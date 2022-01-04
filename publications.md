@@ -1,5 +1,6 @@
 ---
 title: Publications
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 ---
 # Publications
 Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ) and [iNSPIRE-HEP](https://inspirehep.net/author/profile/Saroj.Adhikari.1)
@@ -17,3 +18,4 @@ Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIp
 |  2    | A.B. Mantz et. al | [**Weighing the giants-IV. Cosmology and neutrino mass**](https://doi.org/10.1093/mnras/stu2096)  | [arXiv:1407.4516](https://arxiv.org/abs/1407.4516) |
 |  1    | S. Adhikari, S. Shandera and N. Dalal | [**Higher moments of primordial non-Gaussianity and N-body simulations**](https://doi.org/10.1088/1475-7516/2014/06/052) | [arXiv:1402.2336](https://arxiv.org/abs/1402.2336) |
 
+<a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.dark.2020.100539" data-popup="right" data-size="small" class="plumx-plum-print-popup plum-liberty-theme" data-site="plum" data-hide-when-empty="true">Super-CMB fluctuations and the Hubble tension</a> 
