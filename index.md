@@ -10,7 +10,7 @@ I am an [Assistant Professor of Physics](https://www.plattsburgh.edu/academics/s
 I did my PhD at the Pennsylvania State University, University Park and worked as a postdoctoral research fellow at the University of Michigan, Ann Arbor.
 
 # Recent [News](news.md)
-* Mar 2022 - Non-flat Super-LCDM paper to be published on Physics of the Dark Universe
+* Mar 2022 - Non-flat Super-LCDM paper published on [Physics of the Dark Universe](https://authors.elsevier.com/a/1eoE97t6qqBiAr)
 * Aug 2021 - Became a receiving editor for [Astroparticle Physics](https://www.journals.elsevier.com/astroparticle-physics) journal
 * Jan 2021 - Written an article for [ANPA Newsletter 2021](https://anpaglobal.org/anpa-newsletter-2021/)
 * Dec 2020 - Received [Google Cloud Research Credit](https://edu.google.com/programs/credits/research/) Award
