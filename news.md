@@ -2,7 +2,7 @@
 title: News and Updates
 ---
 # News and Updates
-* Mar 2022 - Selected as a KITP Scholar for 2022-24
+* Mar 2022 - Selected as a [KITP Scholar](https://www.kitp.ucsb.edu/apply/fellowships/kitp-scholars/directory) for 2022-24
 * Mar 2022 - Non-flat Super-LCDM paper published on [Physics of the Dark Universe](https://authors.elsevier.com/a/1eoE97t6qqBiAr)
 * Aug 2021 - Became a receiving editor for [Astroparticle Physics](https://www.journals.elsevier.com/astroparticle-physics) journal
 * Jan 2021 - Written an article for [ANPA Newsletter 2021](https://anpaglobal.org/anpa-newsletter-2021/)
