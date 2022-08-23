@@ -5,6 +5,7 @@ title: Current and Past Teaching
 * **Fall 2022**
   - PHY 111: General Physics I
   - PHY 310: Statics
+  - PHY 315: Introduction to Computational Methods in Physics
 * **Spring 2022**
   - PHY 112: General Physics II
   - PHY 452: Quantum Mechanics
