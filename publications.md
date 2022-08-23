@@ -6,7 +6,7 @@ Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIp
 
 |  No.  |  Author(s)  |  Title and Journal Link  |  arXiv Link  | 
 | ----- |  -------  |  -----  |  ----  |
-|  11   | S. Adhikari | [**The Hubble tension in the non-flat Super-LCDM model**](https://authors.elsevier.com/a/1eoE97t6qqBiAr) | [arXiv:2203.04835](https://arxiv.org/abs/2203.04835) |
+|  11   | S. Adhikari | [**The Hubble tension in the non-flat Super-LCDM model**](https://doi.org/10.1016/j.dark.2022.101005) | [arXiv:2203.04835](https://arxiv.org/abs/2203.04835) |
 |  10   | S. Adhikari and D. Huterer | [**Super-CMB fluctuations and the Hubble tension**](https://doi.org/10.1016/j.dark.2020.100539) | [arXiv:1905.02278](https://arxiv.org/abs/1905.02278) |
 |  9    | S. Adhikari and D. Huterer | [**A new measure of tension between experiments**](https://doi.org/10.1088/1475-7516/2019/01/036)  |  [arXiv:1806.04292](https://arxiv.org/abs/1806.04292)  |
 |  8    | X. Li, N. Weaverdyck, S. Adhikari, D. Huterer, J Muir and HY Wu | [**The Quest for the Inflationary Spectral Runnings in the Presence of Systematic Errors**](https://doi.org/10.3847/1538-4357/aacaf7) | [arXiv:1806.02515](https://arxiv.org/abs/1806.02515) |
