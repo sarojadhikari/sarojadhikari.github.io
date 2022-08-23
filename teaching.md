@@ -2,6 +2,9 @@
 title: Current and Past Teaching
 ---
 # Current and Past Courses
+* **Fall 2022**
+  - PHY 111: General Physics I
+  - PHY 310: Statics
 * **Spring 2022**
   - PHY 112: General Physics II
   - PHY 452: Quantum Mechanics
