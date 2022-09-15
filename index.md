@@ -23,7 +23,7 @@ I did my PhD at the Pennsylvania State University, University Park and worked as
 * **Fall 2022**
   - [PHY 111: General Physics I](https://sunycosmo.github.io/phy111-notes/)
   - PHY 310: Statics
-  - PHY 315: Introduction to Computational Methods in Physics
+  - [PHY 315: Introduction to Computational Methods in Physics](https://sunycosmo.github.io/compphysics-course/)
 * **Spring 2022**
   - PHY 112: General Physics II
   - PHY 452: Quantum Mechanics
