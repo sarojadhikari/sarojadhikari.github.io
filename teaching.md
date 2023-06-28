@@ -2,6 +2,9 @@
 title: Current and Past Teaching
 ---
 # Current and Past Courses
+* **Spring 2023**
+  - PHY 112: General Physics II
+  - PHY 341: Thermodynamics
 * **Fall 2022**
   - [PHY 111: General Physics I](https://sunycosmo.github.io/phy111-notes/)
   - PHY 310: Statics
