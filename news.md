@@ -2,6 +2,7 @@
 title: News and Updates
 ---
 # News and Updates
+* Oct 2023 - Started working as a ScienceIT Consultant at the [Lawrence Berkeley National Laboratory](https://www.lbl.gov)
 * Mar 2022 - Selected as a [KITP Scholar](https://www.kitp.ucsb.edu/apply/fellowships/kitp-scholars/directory) for 2022-24
 * Mar 2022 - Non-flat Super-LCDM paper published on [Physics of the Dark Universe](https://doi.org/10.1016/j.dark.2022.101005)
 * Aug 2021 - Became a receiving editor for [Astroparticle Physics](https://www.journals.elsevier.com/astroparticle-physics) journal
