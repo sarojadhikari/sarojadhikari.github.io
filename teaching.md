@@ -1,7 +1,7 @@
 --- 
-title: Current and Past Teaching
+title: Past Teaching
 ---
-# Current and Past Courses
+# Courses taught
 * **Spring 2023**
   - PHY 112: General Physics II
   - PHY 341: Thermodynamics
