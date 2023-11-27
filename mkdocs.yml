@@ -1,0 +1,26 @@
+site_name: Saroj Adhikari
+site_description: Personal Homepage of Saroj Adhikari
+
+theme:
+    name: material
+    custom_dir: docs/overrides
+    palette:
+        primary: black
+    features:
+        - navigation.tabs
+        - navigation.top
+        - search.highlight
+
+plugins:
+    - search:
+
+markdown_extensions:
+    - abbr
+    - admonition
+    - pymdownx.details
+
+nav:
+    - Home: index.md
+    - News: news.md
+    - Teaching: teaching.md
+    - Publications: publications.md
