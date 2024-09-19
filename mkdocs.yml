@@ -24,3 +24,8 @@ nav:
     - News: news.md
     - Teaching: teaching.md
     - Publications: publications.md
+
+extra:
+    analytics:
+        provider: google
+        property: !ENV GOOGLE_ANALYTICS_KEY
