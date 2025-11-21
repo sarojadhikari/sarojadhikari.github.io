@@ -1,6 +1,4 @@
 ---
-hide:
-    - navigation
 ---
 
 # News and Updates
