@@ -1,8 +1,3 @@
----
-hide:
-    - navigation
----
-
 # Publications
 Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ&sortby=pubdate) and [iNSPIRE-HEP](https://inspirehep.net/author/profile/Saroj.Adhikari.1)
 

@@ -1,8 +1,3 @@
----
-hide:
-    - navigation
----
-
 # Courses taught
 
 | **Spring 2023** | **Fall 2022** |
