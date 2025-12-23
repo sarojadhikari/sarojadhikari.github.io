@@ -10,7 +10,7 @@
 - **PHY 315** - Introduction to Computational Methods in Physics
 
 ## Spring 2022
-- **PHY 112** - General Physics II
+- **PHY 111** - General Physics II
 - **PHY 452** - Quantum Mechanics
 
 ## Fall 2021
