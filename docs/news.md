@@ -1,6 +1,3 @@
----
----
-
 # News and Updates
 
 * Oct 2023 - Started working as a ScienceIT Consultant at the [Lawrence Berkeley National Laboratory](https://www.lbl.gov)
