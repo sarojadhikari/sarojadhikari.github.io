@@ -1,6 +1,5 @@
 [project]
 site_name = "Saroj Adhikari"
-site_description = "Personal Homepage of Saroj Adhikari"
 
 # Navigation structure with About top-level section
 nav = [
@@ -15,6 +14,16 @@ nav = [
 
 # Additional CSS
 # extra_css = ["assets/stylesheets/extra.css"]
+
+[[project.theme.palette]] 
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
 
 # Extra configuration for analytics
 [project.extra.analytics]
