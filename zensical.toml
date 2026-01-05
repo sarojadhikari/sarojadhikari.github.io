@@ -14,36 +14,7 @@ nav = [
 ]
 
 # Additional CSS
-extra_css = ["assets/stylesheets/extra.css"]
-
-[project.theme]
-# Using default variant (not classic) for modern look
-language = "en"
-
-# Theme features - enabling left navigation by NOT using navigation.tabs
-features = [
-    "navigation.top",           # Back to top button
-    "search.highlight",         # Search highlighting
-    "navigation.indexes",       # Section index pages
-    "navigation.sections",      # Render sections as groups
-    "navigation.path",          # Breadcrumb navigation
-    "content.code.copy",        # Code copy button
-]
-
-# Color palette configuration
-[[project.theme.palette]]
-media = "(prefers-color-scheme: light)"
-scheme = "default"
-primary = "black"
-toggle.icon = "material/brightness-7"
-toggle.name = "Switch to dark mode"
-
-[[project.theme.palette]]
-media = "(prefers-color-scheme: dark)"
-scheme = "slate"
-primary = "black"
-toggle.icon = "material/brightness-4"
-toggle.name = "Switch to light mode"
+# extra_css = ["assets/stylesheets/extra.css"]
 
 # Extra configuration for analytics
 [project.extra.analytics]
