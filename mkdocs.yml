@@ -3,7 +3,6 @@ site_description: Personal Homepage of Saroj Adhikari
 
 theme:
     name: material
-    custom_dir: docs/overrides
     palette:
         # Palette toggle for light mode
         - media: "(prefers-color-scheme: light)"
@@ -31,6 +30,8 @@ markdown_extensions:
     - abbr
     - admonition
     - pymdownx.details
+    - attr_list
+    - md_in_html
 
 nav:
     - Home: index.md
@@ -42,3 +43,6 @@ extra:
     analytics:
         provider: google
         property: !ENV GOOGLE_ANALYTICS_KEY
+
+extra_css:
+    - assets/stylesheets/extra.css
