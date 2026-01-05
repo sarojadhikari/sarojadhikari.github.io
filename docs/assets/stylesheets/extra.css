@@ -16,6 +16,7 @@
 }
 
 /* Expand content to use full width when sidebar is hidden */
+/* 76.25em (1220px) is the MkDocs Material breakpoint where sidebar margins are applied */
 @media screen and (min-width: 76.25em) {
     .md-sidebar--primary ~ .md-content {
         margin-left: 0;
