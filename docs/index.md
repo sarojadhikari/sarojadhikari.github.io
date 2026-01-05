@@ -18,8 +18,8 @@ Before joining Berkeley Lab, I was an Assistant Professor of Physics at SUNY Pla
 I did my PhD at the Pennsylvania State University, University Park and worked as a postdoctoral research fellow at the University of Michigan, Ann Arbor.
 
 <div class="homepage-buttons" markdown>
-[Recent News](news.md){ .md-button .md-button--primary }
-[Publications](publications.md){ .md-button }
+[Recent News](About/news.md){ .md-button .md-button--primary }
+[Publications](About/publications.md){ .md-button }
 </div>
 
 </div>
