@@ -3,7 +3,7 @@ title: About Me
 ---
 
 # About Me
-<img align="left" src="saroj_2023.jpg" width="150" style="padding: 20px; border-radius: 50%">
+<img align="left" src="../assets/images/saroj_2023.jpg" width="150" style="padding: 20px; border-radius: 50%">
 
 I am a ScienceIT Consultant at the [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) in Berkeley, CA.
 
