@@ -2,7 +2,7 @@
 
 ## Spring 2023
 - **PHY 112** - General Physics II
-- **PHY 321** - Thermodynamics
+- **PHY 341** - Thermodynamics
 
 ## Fall 2022
 - **PHY 111** - General Physics I
