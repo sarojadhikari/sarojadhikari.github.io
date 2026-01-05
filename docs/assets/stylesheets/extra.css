@@ -5,6 +5,15 @@
     display: none;
 }
 
+/* Hide the "On this page" sidebar on homepage */
+.md-sidebar--secondary {
+    display: none !important;
+}
+
+.md-sidebar--secondary .md-sidebar__scrollwrap {
+    display: none !important;
+}
+
 .homepage-container {
     max-width: 1200px;
     margin: 2rem auto;
