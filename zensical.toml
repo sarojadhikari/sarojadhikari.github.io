@@ -1,5 +1,8 @@
 [project]
 site_name = "Saroj Adhikari"
+site_description = "Personal homepage of Saroj Adhikari — physicist and HPC consultant at Lawrence Berkeley National Laboratory."
+site_url = "https://sarojadhikari.github.io/"
+copyright = "Copyright &copy; 2026 Saroj Adhikari"
 
 # Navigation structure with About top-level section
 nav = [
@@ -13,9 +16,22 @@ nav = [
 ]
 
 # Additional CSS
-# extra_css = ["assets/stylesheets/extra.css"]
+extra_css = ["assets/stylesheets/extra.css"]
 
-[[project.theme.palette]] 
+[project.theme]
+features = [
+  "navigation.instant",
+  "navigation.instant.prefetch",
+  "navigation.path",
+  "navigation.top",
+  "navigation.tracking",
+  "navigation.footer",
+  "navigation.indexes",
+  "navigation.sections",
+  "search.highlight",
+]
+
+[[project.theme.palette]]
 scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
@@ -24,6 +40,22 @@ toggle.name = "Switch to dark mode"
 scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
+
+# Social links shown in the footer
+[[project.extra.social]]
+icon = "fontawesome/brands/google-scholar"
+link = "https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ"
+name = "Google Scholar"
+
+[[project.extra.social]]
+icon = "simple/orcid"
+link = "https://orcid.org/0000-0002-3814-7708"
+name = "ORCiD"
+
+[[project.extra.social]]
+icon = "simple/inspire"
+link = "https://inspirehep.net/authors/1501883?ui-citation-summary=true"
+name = "INSPIRE-HEP"
 
 # Extra configuration for analytics
 [project.extra.analytics]
