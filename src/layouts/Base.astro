@@ -1,0 +1,131 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const siteName = 'Saroj Adhikari';
+const defaultDescription =
+  'Personal homepage of Saroj Adhikari — physicist and HPC consultant at Lawrence Berkeley National Laboratory.';
+
+const { title, description = defaultDescription } = Astro.props;
+const pageTitle = title && title !== siteName ? `${title} - ${siteName}` : siteName;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const gaId = import.meta.env.PUBLIC_GOOGLE_ANALYTICS_KEY;
+
+const nav = [
+  { label: 'Home', href: '/' },
+  { label: 'About', href: '/About/' },
+  { label: 'News', href: '/About/news/' },
+  { label: 'Teaching', href: '/About/teaching/' },
+  { label: 'Publications', href: '/About/publications/' },
+];
+const path = Astro.url.pathname;
+
+const social = [
+  { label: 'Google Scholar', href: 'https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ' },
+  { label: 'ORCiD', href: 'https://orcid.org/0000-0002-3814-7708' },
+  { label: 'INSPIRE-HEP', href: 'https://inspirehep.net/authors/1501883?ui-citation-summary=true' },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <script is:inline>
+      (() => {
+        let theme;
+        try {
+          theme = localStorage.getItem('theme');
+        } catch {}
+        if (theme !== 'light' && theme !== 'dark') {
+          theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        document.documentElement.dataset.theme = theme;
+      })();
+    </script>
+    {
+      gaId && (
+        <>
+          <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`} />
+          <script is:inline define:vars={{ gaId }}>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', gaId);
+          </script>
+        </>
+      )
+    }
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="site-name" href="/">{siteName}</a>
+        <nav aria-label="Main">
+          <ul>
+            {
+              nav.map((item) => (
+                <li>
+                  <a href={item.href} aria-current={path === item.href ? 'page' : undefined}>
+                    {item.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </nav>
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+          <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="12" cy="12" r="4"></circle>
+            <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path>
+          </svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <main class="container">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>Copyright &copy; {new Date().getFullYear()} {siteName}</p>
+        <ul class="social">
+          {
+            social.map((link) => (
+              <li>
+                <a href={link.href} rel="me">{link.label}</a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </footer>
+
+    <script>
+      const toggle = document.querySelector<HTMLButtonElement>('.theme-toggle');
+      toggle?.addEventListener('click', () => {
+        const root = document.documentElement;
+        const theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
+        root.dataset.theme = theme;
+        try {
+          localStorage.setItem('theme', theme);
+        } catch {}
+      });
+    </script>
+  </body>
+</html>

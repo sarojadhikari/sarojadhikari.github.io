@@ -1,4 +1,7 @@
-# Publications
+---
+layout: ../../layouts/Page.astro
+title: Publications
+---
 
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ&sortby=pubdate) | [iNSPIRE-HEP](https://inspirehep.net/author/profile/Saroj.Adhikari.1)
 

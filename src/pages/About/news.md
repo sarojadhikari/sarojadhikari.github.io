@@ -1,4 +1,7 @@
-# News and Updates
+---
+layout: ../../layouts/Page.astro
+title: News and Updates
+---
 
 * Oct 2023 - Started working as a ScienceIT Consultant at the [Lawrence Berkeley National Laboratory](https://www.lbl.gov)
 * Mar 2022 - Selected as a [KITP Scholar](https://www.kitp.ucsb.edu/apply/fellowships/kitp-scholars/directory) for 2022-24
