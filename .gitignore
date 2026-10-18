@@ -1,2 +1,6 @@
 # Build artifacts
-site/
+dist/
+.astro/
+
+# Dependencies
+node_modules/

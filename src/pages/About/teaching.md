@@ -1,4 +1,7 @@
-# Courses Taught
+---
+layout: ../../layouts/Page.astro
+title: Courses Taught
+---
 
 ## Spring 2023
 - **PHY 112** - General Physics II

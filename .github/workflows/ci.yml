@@ -17,12 +17,16 @@ jobs:
     steps:
       - uses: actions/configure-pages@v5
       - uses: actions/checkout@v5
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-node@v5
         with:
-          python-version: 3.x
-      - run: pip install zensical==0.0.28
-      - run: zensical build --clean
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+        env:
+          PUBLIC_GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: site
-      - uses: actions/deploy-pages@v4
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v4
