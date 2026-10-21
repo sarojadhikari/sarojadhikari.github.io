@@ -17,7 +17,7 @@ I did my PhD at the Pennsylvania State University, University Park and worked as
 * Aug 2021 - Became a receiving editor for [Astroparticle Physics](https://www.journals.elsevier.com/astroparticle-physics) journal
 
 ## [Teaching](/About/teaching/)
-I taught physics at SUNY Plattsburgh (2020–2023) and Wilkes University (2019–2020). The [teaching page](/About/teaching/) lists the courses, with links to materials that are still online.
+I taught physics at SUNY Plattsburgh (2020–2023) and Wilkes University (2019–2020). The [teaching page](/About/teaching/) lists the courses.
 
 ## [Publications](/About/publications/)
 * Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ), [iNSPIRE-HEP](https://inspirehep.net/authors/1501883?ui-citation-summary=true) and [ORCiD](https://orcid.org/0000-0002-3814-7708).
