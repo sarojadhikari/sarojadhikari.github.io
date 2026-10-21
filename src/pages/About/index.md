@@ -16,21 +16,8 @@ I did my PhD at the Pennsylvania State University, University Park and worked as
 * Mar 2022 - Non-flat Super-LCDM paper published on [Physics of the Dark Universe](https://doi.org/10.1016/j.dark.2022.101005)
 * Aug 2021 - Became a receiving editor for [Astroparticle Physics](https://www.journals.elsevier.com/astroparticle-physics) journal
 
-## Recent [Courses](/About/teaching/)
-* **Spring 2023**
-  - PHY 112: General Physics II
-  - PHY 341: Thermodynamics
-* **Fall 2022**
-  - [PHY 111: General Physics I](https://sunycosmo.github.io/phy111-notes/)
-  - PHY 310: Statics
-  - [PHY 315: Introduction to Computational Methods in Physics](https://sunycosmo.github.io/compphysics-course/)
-* **Spring 2022**
-  - PHY 112: General Physics II
-  - PHY 452: Quantum Mechanics
-* **Fall 2021** 
-  - PHY 111: General Physics I
-  - PHY 341: Thermodynamics 
-  - PHY 398: Technical Reports in Physics and Engineering
+## [Teaching](/About/teaching/)
+I taught physics at SUNY Plattsburgh (2020–2023) and Wilkes University (2019–2020). The [teaching page](/About/teaching/) lists the courses, with links to materials that are still online.
 
 ## [Publications](/About/publications/)
 * Profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AIpOzQ0AAAAJ), [iNSPIRE-HEP](https://inspirehep.net/authors/1501883?ui-citation-summary=true) and [ORCiD](https://orcid.org/0000-0002-3814-7708).

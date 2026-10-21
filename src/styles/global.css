@@ -172,6 +172,36 @@ a {
   margin-top: 0.25rem;
 }
 
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+.prose th,
+.prose td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.prose th {
+  font-weight: 600;
+}
+
+/* Keep course codes like "PHY 111" on one line (first column of a three-column table) */
+.prose td:first-child:nth-last-child(3) {
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .prose th,
+  .prose td {
+    padding: 0.5rem 0.4rem;
+  }
+}
+
 .profile-photo {
   float: left;
   width: 150px;
