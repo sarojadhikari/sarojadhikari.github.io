@@ -32,7 +32,7 @@ const social = [
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -41,16 +41,12 @@ const social = [
     <link rel="canonical" href={canonical} />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <script is:inline>
-      (() => {
-        let theme;
-        try {
-          theme = localStorage.getItem('theme');
-        } catch {}
-        if (theme !== 'light' && theme !== 'dark') {
-          theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      // Dark is the default; switch to light only if the visitor chose it with the toggle
+      try {
+        if (localStorage.getItem('theme') === 'light') {
+          document.documentElement.dataset.theme = 'light';
         }
-        document.documentElement.dataset.theme = theme;
-      })();
+      } catch {}
     </script>
     {
       gaId && (
